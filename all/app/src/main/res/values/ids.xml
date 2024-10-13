@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="MENU_NEWS" type="id" />
+    <item name="MENU_ORDER" type="id" />
+    <item name="MENU_ACCOUNT" type="id" />
+</resources>
